@@ -6,3 +6,5 @@ Presented at:
 -2nd International Bordeaux Conference on Empirical Finance (24 November 2017)
 
 -Colubmia University / The Clearing House Conference on Optimal Liquidity Requirements (forthcoming - 9 February 2018)
+
+-Royal Economics Society Annual Conference (forthcoming - 27 March 2018)
